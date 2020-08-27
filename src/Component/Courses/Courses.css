@@ -1,0 +1,7 @@
+#course-container{
+    display:flex;
+}
+.course-name{
+    width:80%;
+    border-right: 1px solid lightgray;
+}
